@@ -104,6 +104,21 @@ p {
     padding-bottom: 20px;  
 }
 
+.textBox {
+    display: flex;
+    flex-direction: row;  
+    margin: 20px 0;  
+}
+
+.text-container{
+    font-weight: bold;
+}
+
+.dottedLine {
+    border: 1px dotted black;
+    margin: 0 0 20px;
+}
+
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
