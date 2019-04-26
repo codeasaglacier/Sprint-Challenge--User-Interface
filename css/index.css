@@ -72,19 +72,23 @@ p {
     
 }
 .header {
-    
     display: flex;
+    justify-content: space-between;
+    align-content: baseline;
+}
+.header img {
+    object-fit: contain;
 }
 .navBar {
-    align-content: center;
-justify-content: space-between;
-
-font-size: 18px; 
+    padding: 40px 0 0 0;
+    margin: 0 10px;
+    font-size: 18px; 
 }
 .navBar a {
-    padding: 20px;
+    padding: 20px 30px;
     text-decoration: none;
     color: black;
+    
 }
 .top-content {
     display: flex;
