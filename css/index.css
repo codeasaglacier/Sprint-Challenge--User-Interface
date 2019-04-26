@@ -146,6 +146,47 @@ p {
     justify-content: center;
 }
 
+#b1 {
+    background: #0B8686;
+}
+
+#b2 {
+    background: #FFD700;
+}
+
+#b3 {
+    background: #5F9EA0;
+}
+
+#b4 {
+    background: #FF7F50;
+}
+
+#b5 {
+    background: #DC143C;
+}
+
+#b6 {
+    background: #228B22;
+}
+
+#b7 {
+    background: #9932CC;
+}
+
+#b8 {
+    background: #FF69B4;
+}
+
+#b9 {
+    background: #4B0082;
+}
+
+#b10 {
+    background: #1E90FF;
+}
+
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
