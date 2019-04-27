@@ -71,7 +71,14 @@ p {
     margin: 0 auto;
     
 }
-.header {
+
+.container-about-page {
+    width: 800px;
+    margin: 0 auto;
+    
+}
+
+.header  {
     display: flex;
     justify-content: space-between;
     align-content: baseline;
@@ -90,6 +97,28 @@ p {
     color: black;
     
 }
+
+.headerAbout  {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    
+}
+.headerAbout img {
+    object-fit: contain;
+}
+.navBarAbout {
+    padding: 40px 0 0 0;
+    margin: 0 10px;
+    font-size: 15px; 
+}
+.navBarAbout a {
+    padding: 20px 30px;
+    text-decoration: none;
+    color: black;
+    
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -219,4 +248,30 @@ footer nav a {
     color: white;
     text-decoration: none;
     background: none;
+}
+.imgBox {
+    margin: 20px 0;
+}
+.aboutBox h2 {
+   
+}
+
+.aboutBox {
+    font-weight: bold;
+    margin: 20px;
+}
+
+.boxesBox {
+    display: flex;
+    flex-flow: wrap;
+}
+
+.box {
+    width: 45%;
+    margin: 20px;
+    font-weight: bold;
+}
+.bottomBox {
+    margin: 20px;
+    font-weight: bold;
 }
