@@ -36,7 +36,6 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 <!-- Git allows for several people to work on the same project, offers branch control for merging and recovery. Git also makes it easy for code to be reviewed prior to merging.     -->
-
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
