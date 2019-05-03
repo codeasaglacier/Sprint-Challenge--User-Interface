@@ -140,6 +140,10 @@ p {
     align-content: center;
     margin: 2rem;
 }
+.button{
+    display: flex;
+    justify-content: center;
+}
 /* Mid page */
 button{
     background: white;
