@@ -30,12 +30,30 @@
                 </nav>
         </header>
         </section>
-        <main class="main">
+        <main class="mainContact">
+           <div class="formBox">
+            <form action="my-first-form" method="POST">
+                <div>
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="user_name">
+                </div>
+                <div>
+                    <label for="mail">Email:</label>
+                    <input type="email" id="mail" name="user_mail">
+                </div>
+                <div>
+                    <label for="msg">Message:</label>
+                    <textarea id="msg" name="user_message"></textarea>
+                </div>
+            </form>
+           </div>
+           <div class="addressBox">
             <address>
                 Middle of Nowhere, Alaska<br>
                 (907)000-0000<br>
                 remingtonshock@gmail.com
             </address>
+           </div>
         </main>
         <footer>
             <nav>

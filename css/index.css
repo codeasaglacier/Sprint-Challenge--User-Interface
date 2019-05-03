@@ -134,6 +134,12 @@ p {
     border: .5px dashed black;
     margin: 20px auto;
 }
+.formBox{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 2rem;
+}
 /* Mid page */
 button{
     background: white;
@@ -261,4 +267,10 @@ footer nav a {
 .bottomBox {
     margin: 20px;
     font-weight: bold;
+}
+.addressBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 2rem;
 }
