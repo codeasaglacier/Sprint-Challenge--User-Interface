@@ -144,7 +144,6 @@ button{
     font-weight: bold;
     font-size: 15px;
     margin: 1rem 0 0 0;
-    
 }
 .middle-content {
     margin-bottom: 20px;
@@ -153,6 +152,11 @@ button{
 .middle-content h2 {
     padding: 0 2%;
     margin-bottom: 0;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
 }
 /* Boxes */
 .middle-content .boxes {
