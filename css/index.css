@@ -186,6 +186,13 @@ button{
 }
 #b1 {
     background: #0B8686;
+    animation-name: boxChange;
+    animation-duration: 2s;
+}
+@keyframes boxChange{
+    from{background-color: #0B8686;}
+    to{background-color: white; color:#0B8686;}
+    
 }
 
 #b2 {
