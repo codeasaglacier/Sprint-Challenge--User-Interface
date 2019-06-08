@@ -32,20 +32,26 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
-
-
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+<!-- Semantic HTML brings meaning into the structure of the page, both for future developers who work on the page and for accessibility.  -->
+2. Name two big differences between display: block; and display: inline;.
+<!-- Inline content takes up the space of its container and ignores height and width properties. Block startsa new line, takes up the width of its container, and can be modified with height and width properties. -->
+3. What are the 4 areas of the box model?
+<!-- Content, padding, margin, border. -->
+4. While using flexbox, what axis does the following property work on: align-items: center?
+<!-- Align-items modifies the cross axis. -->
 5. Explain why git is valuable to a team of developers.
 <!-- Git allows for several people to work on the same project, offers branch control for merging and recovery. Git also makes it easy for code to be reviewed prior to merging.     -->
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your project manager as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [x] Create a forked copy of this project.
+- [x] Add your project manager as collaborator on Github.
+- [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [x] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [x] Push commits: git push origin `<firstName-lastName>`.
  
 Follow these steps for completing your project.
 
@@ -94,7 +100,7 @@ In your solution, it is essential that you follow best practices and produce cle
 
 After finishing your required elements, you can push your work further. These goals may or may not be things you have learned in this module but they build on the material you just studied. Time allowing, stretch your limits and see if you can deliver on the following optional goals:
 
-* [ ] Build a page of your choosing from the navigation items.  Come up with content and images that fit the theme.  
+* [] Build a page of your choosing from the navigation items.  Come up with content and images that fit the theme.  
 * [ ] Introduce CSS animations to your site.
-* [ ] Build a contact page and create a form with several inputs of your choosing
+* [x] Build a contact page and create a form with several inputs of your choosing
 * [ ] Add responsive breakpoints to your code by using media queries
